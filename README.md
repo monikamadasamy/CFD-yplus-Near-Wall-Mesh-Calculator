@@ -60,8 +60,11 @@ Turbulence Model Guidance
 The calculator also provides guidance on selecting an appropriate turbulence model based on the selected y⁺ value:
 
 y⁺ Range	Recommended Approach
+
 y⁺ ≈ 1	k-ω SST, LES (wall-resolved simulation)
+
 1 < y⁺ < 30	Enhanced wall treatment
+
 30 ≤ y⁺ ≤ 300	k-ε with wall functions
 
 This helps users design meshes that match the assumptions of the turbulence model.
@@ -91,7 +94,7 @@ Live Demo
 
 Try the calculator here:
 
-https://cfd-yplus-near-wall-mesh-calculator.netlify.app/
+
 
 Applications
 
