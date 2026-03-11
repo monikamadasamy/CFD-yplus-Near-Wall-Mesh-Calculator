@@ -92,7 +92,7 @@ This makes the tool lightweight and easy to deploy via GitHub Pages or Netlify.
 
 Live Demo
 
-Try the calculator here:
+Try the calculator here: https://cfd-yplus-near-wall-mesh-calculation.netlify.app/
 
 
 
